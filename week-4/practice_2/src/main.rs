@@ -1,4 +1,4 @@
-//Rust program to calculate the area of a triangle given three sides
+// Rust program to calculate the area of a triangle given three sides
 
 use std::io;
 
